@@ -6,4 +6,4 @@ Key techniques in supervised machine learning are demostrated, such as classific
 
 Apart from these further topics are also covered such as esemble learning and dimension reduction.
 
-Please Find the different Supervised and Unsupervised Algorithm with examples shown above.
+Please find different Supervised and Unsupervised Algorithm with examples shown above.
