@@ -2,6 +2,8 @@
 
 Neural networks are a set of algorithms, modeled loosely after the human brain, that are designed to recognize patterns. They interpret sensory data through a kind of machine perception, labeling or clustering raw input. The patterns they recognize are numerical, contained in vectors, into which all real-world data, be it images, sound, text or time series, must be translated. Neural networks help us cluster and classify.
 
+![image](https://user-images.githubusercontent.com/26432753/72461027-fa8f4600-37c5-11ea-8cdf-7a825b85ab2e.png)
+
 ### Applying NN on Hotel Review Data:
 
 ![image](https://user-images.githubusercontent.com/26432753/72459173-1a246f80-37c2-11ea-9bf9-bdcc74aa6cfb.png)
