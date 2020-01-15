@@ -29,3 +29,9 @@ Following tasks are covered in the code above:
 **5.Different Density data**
 
 ![image](https://user-images.githubusercontent.com/26432753/72460775-5efdd580-37c5-11ea-9c09-d1608dd88850.png)
+
+## Hierarchical Clustering
+
+**Dendograms**
+
+![image](https://user-images.githubusercontent.com/26432753/72460949-c582f380-37c5-11ea-84c5-e07ddd769f0b.png)
