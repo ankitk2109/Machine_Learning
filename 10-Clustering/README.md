@@ -14,7 +14,7 @@ Following tasks are covered in the code above:
 ![image](https://user-images.githubusercontent.com/26432753/72460558-f282d680-37c4-11ea-884d-e42745b32eb4.png)
 
 **1. k-Means stability**
-
+ 
 **2. k-Means shortcoming**
 
 **3. Elongated clusters**
